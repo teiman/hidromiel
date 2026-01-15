@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npm start)",
+      "Bash(timeout 10 tail:*)",
+      "Bash(npm run package:*)",
+      "Bash(node test-parser.js:*)",
+      "Bash(./out/Hidromiel-win32-x64/Hidromiel.exe:*)",
+      "Bash(tasklist:*)",
+      "Bash(./Hidromiel.exe)",
+      "Bash(npm run dev:*)",
+      "Bash(ls:*)",
+      "Bash(npm test:*)",
+      "Bash(npx vitest:*)",
+      "Bash(node --version)",
+      "Bash(node parser.test.js:*)",
+      "Bash(node --check:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(pkill:*)",
+      "Bash(npm run validate-saves:*)"
+    ]
+  }
+}
