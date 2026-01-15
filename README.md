@@ -2,7 +2,6 @@
 
 A live savegame editor for debugging Quake mods. Hidromiel watches for changes to Quake savegame files and provides a powerful interface for searching, viewing, and editing game entities in real-time.
 
-![Hidromiel Screenshot](https://via.placeholder.com/800x500?text=Hidromiel+Screenshot)
 
 ## Features
 
